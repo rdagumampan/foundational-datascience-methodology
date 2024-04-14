@@ -37,7 +37,7 @@ Data Science Methodology guides data scientists in solving complex problems with
 #### Stage 2:  Analytic Approach
 - How can use data to answer the question?
 - Available patterns to address the questions
-  - Descriptive
+  - Descriptive (Current status)
     - What is the current situation?
   - Diagnostic (Statistical Analysis)
     - What happened?
@@ -45,7 +45,7 @@ Data Science Methodology guides data scientists in solving complex problems with
   - Predictive (Forecasting)
     -  What if the trends continue?
     -  What will happen next?
-  - Prescriptive
+  - Prescriptive (Reccommendations)
     - How do we solve it? 
 - 
 ##### Model types
