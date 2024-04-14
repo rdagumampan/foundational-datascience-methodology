@@ -35,7 +35,10 @@ Data Science Methodology guides data scientists in solving complex problems with
   - Ensure needed support should need arise
 
 #### Stage 2:  Analytic Approach
-- How can use data to answer the question?
+- Steps to run analytical approach
+  - Identify the patterns
+  - Choose an analytical approach
+  - Apply machine learning
 - Available patterns to address the questions
   - Descriptive (Current status)
     - What is the current situation?
