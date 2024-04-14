@@ -43,9 +43,13 @@ Data Science Methodology guides data scientists in solving complex problems with
     -  What will happen next?
   - Prescriptive
     - How do we solve it? 
-
+- 
 ##### Model types
 - Use Descriptive Model to show relationshops
 - Use Predicitive Model to show probabilities of an action
 - Use Classification Model to capture yes/no answers
-- 
+
+##### Machine Learning
+- Learn without being programmed
+- Can identify relationships and trends in data
+- Uses clustering association
