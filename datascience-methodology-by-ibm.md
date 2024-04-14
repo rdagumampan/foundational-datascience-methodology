@@ -53,3 +53,8 @@ Data Science Methodology guides data scientists in solving complex problems with
 - Learn without being programmed
 - Can identify relationships and trends in data
 - Uses clustering association
+
+##### Decision Tree Classification
+- A classification outcome is certain
+- A decision path is well represented by describing the conditions leading to high risk
+- Simple to understand and implement
