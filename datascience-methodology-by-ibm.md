@@ -22,13 +22,17 @@ Data Science Methodology guides data scientists in solving complex problems with
 - Get stakeholder buyin and support
 
 #### Stage 1: Business Understanding
+- Define: Prepare clearly defined set of questions to help identify the right analytic approach
+- Understand: Understand the goal of the sponsor
+- Objectives: Organize set of clear objectives
+- Engagement: Stakeholder engagement is important in capturing the requirements and clarify the questions
 - what is the problem are we trying to solve?
 - Define goals and objectives
 - Kickoff the project with
 - What is expected out of sponsor
   - Set the project direction
-  -  Remain engaged and provide guidance
-  -  Ensure needed support should need arise
+  - Remain engaged and provide guidance
+  - Ensure needed support should need arise
 
 #### Stage 2:  Analytic Approach
 - How can use data to answer the question?
