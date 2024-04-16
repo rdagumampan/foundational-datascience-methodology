@@ -11,7 +11,8 @@ The state of data science methodology that covers identifying, sourcing, underst
   - Systematic and meticuluous preparation of data to ensury right quantity and quality
   
 #### Data Understanding
-  Eliminate redudnant data
-  
+  - Use statistics and visualization tools to assess fitness
+  - Assess data quality issues such as missing data and other anomalies
+  - Eliminate redudnant data and prepare for next stage of analysis
   
   
