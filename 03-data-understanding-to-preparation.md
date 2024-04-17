@@ -40,6 +40,7 @@
 - Data dredging represents analysis of data to find problem to solve instead of the other way around
 - Correlation should lead to discovery of causation (strong cause and effect relationship)
 - https://www.youtube.com/watch?v=VMUQSMFGBDo
+- https://www.youtube.com/watch?v=7bT17r_yIrw
 
 > While there is a correlation between ice cream and weight gain, it does not equal causation. Think of it a different way. If a person ate 500 calories of ice cream each day and nothing else they would lose weight. Ice cream is not the cause, it is the restricted number of calories causing the weight loss. The reverse holds true for weight gain. - @DecisionSkills / YT Channel
 
