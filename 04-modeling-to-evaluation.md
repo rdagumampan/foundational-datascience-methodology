@@ -16,3 +16,15 @@
 ## Evaluation
 - Have we indeed answer the question using the designed model or we need to calibrate the model further
 - Involves feedback loop to determine relevance and fitness of the model
+- Evaluations run during development before its deployed
+- Phases of model evaluation
+  - Diagnostic measures. Test and verifies that the model work as intended.
+  - Statistical significance. Test and verifies that data is properly processed and interpreted in the model.
+ 
+  ### Case Study
+  - Which model is best if we are to tune the Relative Cost parameter
+  - we can use Receiver Operating Characteristics (ROC) Curver to evaluate the models
+  - Model that is farthest than the central line is best, aka maximum separation
+ 
+  (![image](https://i0.wp.com/sefiks.com/wp-content/uploads/2020/12/roc-curve-original.png?ssl=1))
+  
