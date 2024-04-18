@@ -1,8 +1,11 @@
 ## Modeling
 - How can we visualize our datasets to help us find answers to the question we were asked
-- We build data models and use training sets and testing sets
-- The success of the modeling largely depends of understanding of the question, the analytical and methods approach used
+- We build data models and use training sets and testing sets to find answers to business question
+- The success of the modeling largely depends of understanding of the problem or business question, the analytical and methods approach used
 - For building the data model, we need to compile, prepare and model
+- Data scientists may train different algorithms on training set and fine tune variables that best support the answer to the question
+- Model can use statistical process or machine learning
+- The result of modeling can be Prescriptive (Do something) or Predictive (This is likely to happen)
 
 ### Case Study
 - Using decision tree to classify readmission of a patient
@@ -23,7 +26,7 @@
  
 ### Case Study
 - Which model is best if we are to tune the Relative Cost parameter
-- We can use Receiver Operating Characteristics (ROC) Curver to evaluate the models
+- We can use Receiver Operating Characteristics (ROC) Curver to evaluate the binary classification models
 - Model that is farthest than the central line is best, aka maximum separation
  
 (![image](https://i0.wp.com/sefiks.com/wp-content/uploads/2020/12/roc-curve-original.png?ssl=1))
