@@ -23,8 +23,9 @@
  
   ### Case Study
   - Which model is best if we are to tune the Relative Cost parameter
-  - we can use Receiver Operating Characteristics (ROC) Curver to evaluate the models
+  - We can use Receiver Operating Characteristics (ROC) Curver to evaluate the models
   - Model that is farthest than the central line is best, aka maximum separation
  
   (![image](https://i0.wp.com/sefiks.com/wp-content/uploads/2020/12/roc-curve-original.png?ssl=1))
   
+## References
