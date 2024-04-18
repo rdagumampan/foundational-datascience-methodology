@@ -29,7 +29,7 @@
 (![image](https://i0.wp.com/sefiks.com/wp-content/uploads/2020/12/roc-curve-original.png?ssl=1))
 
 ### Confusion Matrix
-![image](https://github.com/rdagumampan/datascience-methodology-and-practice/assets/5895952/d592433c-b206-4f9a-a597-39aef79380ad)
+![image](https://github.com/rdagumampan/datascience-methodology-and-practice/assets/5895952/48d65101-9ca9-4b14-958c-bc5989e92eb7)
   
 ## References
 https://www.youtube.com/watch?v=prWyZhcktn4
