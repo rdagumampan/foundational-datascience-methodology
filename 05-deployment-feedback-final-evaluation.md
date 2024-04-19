@@ -1,8 +1,10 @@
 ## Deployment
 - Involves ensuring all stakeholders are aware of the solution
+- Release model to specific stakeholder group
 - Deployment is the ultimate test in validating the model is useful
 - Model results needs to be traslated so the receiving stakeholders are well trained how to use and respond
 - Sufficient monitor must be deployed to ensure working feedback back loop
+- The process is repeated and cyclical until we have optimal setup
 
 ## Feedback 
 - Drives model refinement and peformance tuning
@@ -21,3 +23,5 @@
 ## Final Evaluation
 
 ## References
+https://hemamurhtyportfolio.wordpress.com/2021/01/22/data-science-methodology/
+https://www.kaggle.com/code/xiuwenbo666/data-science-methodology
