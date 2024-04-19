@@ -1,6 +1,7 @@
 ## CRISP-DM
 - Cross Industry Standard for Data Mining
 - A methodology for structured data driving decision making process
+- Consolidated the Foundational Data Science Methodology
 - Follows six stages:
   1. Business understanding
   2. Data understanding
