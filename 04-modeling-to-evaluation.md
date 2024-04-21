@@ -22,7 +22,9 @@
 - Evaluations run during development before its deployed
 - Phases of model evaluation
   - Diagnostic measures. Test and verifies that the model work as intended.
-  - Statistical significance. Test and verifies that data is properly processed and interpreted in the model.
+    - We can use Decision Tree to find areas for improvement
+  - Statistical significance
+    - Test and verifies that data is properly processed and interpreted in the model.
  
 ### Case Study
 - Which model is best if we are to tune the Relative Cost parameter
