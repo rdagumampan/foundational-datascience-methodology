@@ -5,6 +5,7 @@ Learning notes on AI, data science, machine learning and advanced analytics
 
 
 ### References
-https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
-https://www.linkedin.com/pulse/data-science-process-methodology-pratibha-kumari-jha/
-https://www.datascience-pm.com/data-science-methodologies/
+- https://towardsdatascience.com/data-science-methodology-101-ce9f0d660336
+- https://www.linkedin.com/pulse/data-science-process-methodology-pratibha-kumari-jha/
+- https://www.datascience-pm.com/data-science-methodologies/
+- https://www.ibm.com/topics/exploratory-data-analysis#:~:text=the%20next%20step-,What%20is%20EDA%3F,often%20employing%20data%20visualization%20methods
